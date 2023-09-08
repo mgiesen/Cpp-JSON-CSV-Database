@@ -6,6 +6,8 @@ This C++ library simplifies the storage and management of numerical data, such a
 
 ### Key Features:
 
+- **Header-Only**: This library is designed as a header-only solution, making it easy to integrate into your C++ projects without the need for separate compilation steps.
+
 - **Efficiency**: The library offers exceptional speed, and the process of adding a new row remains independent of the size of the CSV file, ensuring efficient performance.
 
 - **Dynamic Data Interaction**: Data can be both read and modified at runtime, enabling dynamic data interaction.
