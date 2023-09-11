@@ -37,7 +37,7 @@ git clone https://github.com/yourusername/SimpleJsonCsvDatabase.git
 
 3. Refer to the example code for usage.
 
-# Example
+## Example
 
 ```cpp
 #include <iostream>
@@ -87,7 +87,13 @@ int main()
 
 ```
 
-# **How can I contribute?** 💁🏼
+## Example CSV-Output
+
+| Column A | Column B | Column C | Column D | Column E |
+| -------- | -------- | -------- | -------- | -------- |
+| 1        | 2        | 3        | 4        | 5        |
+
+## **How can I contribute?** 💁🏼
 
 - **Report Issues:** If you encounter any issues or bugs, please open an issue on GitHub.
 
