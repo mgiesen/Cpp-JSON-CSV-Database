@@ -93,6 +93,18 @@ int main()
 | -------- | -------- | -------- | -------- | -------- |
 | 1        | 2        | 3        | 4        | 5        |
 
+## Example JSON-Output
+
+```json
+{
+	"Column A": [1],
+	"Column B": [2],
+	"Column C": [3],
+	"Column D": [4],
+	"Column E": [5]
+}
+```
+
 ## **How can I contribute?** 💁🏼
 
 - **Report Issues:** If you encounter any issues or bugs, please open an issue on GitHub.
