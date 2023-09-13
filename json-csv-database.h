@@ -1,11 +1,11 @@
 #pragma once
 
 /*
- * File: JsonCsvDatabase.h
+ * File: json-csv-database.h
  * Author: Maximilian Giesen
  *
  * License: MIT License
- * GitHub: https://github.com/mgiesen/SimpleJsonCsvDatabase
+ * GitHub: https://github.com/mgiesen/Cpp-JSON-CSV-Database
  */
 
 #include <iostream>

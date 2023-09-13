@@ -1,4 +1,4 @@
-# SimpleJsonCsvDatabase
+# Cpp-JSON-CSV-Database
 
 ## Overview
 
@@ -30,10 +30,10 @@ To get started, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SimpleJsonCsvDatabase.git
+git clone https://github.com/mgiesen/Cpp-JSON-CSV-Database.git
 ```
 
-2. Include the `JsonCsvDatabase.h` header file in your C++ project.
+2. Include the `json-csv-database.h` header file in your C++ project.
 
 3. Refer to the example code for usage.
 
@@ -42,7 +42,7 @@ git clone https://github.com/yourusername/SimpleJsonCsvDatabase.git
 ```cpp
 #include <iostream>
 
-#include "JsonCsvDatabase.h"
+#include "json-csv-database.h"
 
 void demonstrate_database_functions()
 {
