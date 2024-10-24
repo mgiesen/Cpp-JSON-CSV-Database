@@ -108,13 +108,3 @@ int main()
 	"Column E": [5]
 }
 ```
-
-## **How can I contribute?** 💁🏼
-
-- **Report Issues:** If you encounter any issues or bugs, please open an issue on GitHub.
-
-- **Enhancements:** Feel free to propose new features or improvements by creating a pull request.
-
-- **Documentation:** Help improve the documentation by fixing typos, clarifying instructions, or adding examples. Documentation enhancements can greatly benefit other users.
-
-- **Tell your friends:** If you find the project useful, consider sharing it with others in your community or network.
