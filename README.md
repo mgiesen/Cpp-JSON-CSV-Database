@@ -1,5 +1,9 @@
 # Cpp-JSON-CSV-Database
 
+> [!WARNING]  
+> This library is a quick draft and has not been fully tested. Basic functionality should be usable, but some features and functions may not work as intended.
+
+
 ## Overview
 
 This C++ library simplifies the storage and management of numerical data, such as sensor measurements, by utilizing a straightforward CSV format. By doing so, it ensures that data remains easily transferable, compatible with external visualization tools, and accessible during program runtime by other applications.
